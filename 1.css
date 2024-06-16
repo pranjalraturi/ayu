@@ -2,7 +2,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url('../bg.jpg'); /* Adjust the path based on your repository structure */
+    background-image: url('image.jpg/bg.jpg'); /* Adjust the path based on your repository structure */
     background-size: cover;
     background-position: center;
     display: flex;
