@@ -1,11 +1,8 @@
-styles.css
-css
-Copy code
 /* styles.css */
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url('bg.jpg/background.jpg');
+    background-image: url('../bg.jpg'); /* Adjust the path based on your repository structure */
     background-size: cover;
     background-position: center;
     display: flex;
@@ -16,7 +13,7 @@ body {
 }
 
 .container {
-    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background for better readability */
+    background-color: rgba(255, 255, 255, 0.9);
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
